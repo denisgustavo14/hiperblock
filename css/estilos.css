@@ -1,7 +1,8 @@
 body {
     text-align: center;
     font-family: Courier;
-    color: rgba(234, 0, 255, 0.247);
+    color: #333;
+
 }
 #container {
     width: 70%;
