@@ -27,3 +27,9 @@ body {
     font-weight: normal;
     font-style: 0.8em;
 }
+#footer {
+    background: rgba(8, 155, 111, 0.267);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
